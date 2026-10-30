@@ -1,0 +1,41 @@
+# Git
+.git
+.github
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+
+# Virtual environments
+.venv
+venv
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+data
+datasets
+
+# Training outputs
+runs
+outputs
+checkpoints
+wandb
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
